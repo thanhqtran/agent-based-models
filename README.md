@@ -1,2 +1,2 @@
 # agent-based-models
-Collection of agent-based computational models in Python
+A collection of agent-based computational models in Python
